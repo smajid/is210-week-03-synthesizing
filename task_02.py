@@ -12,4 +12,3 @@ POST_STRING = inquisition.SPANISH[START_LOC + len('Spanish'):STR_LEN]
 FISHY = PRE_STRING + 'Flemish' + POST_STRING
 
 print FISHY
-
